@@ -2,6 +2,10 @@
   --content-padding: 10px;
 }
 
+.content {
+  padding: var(--content-padding);
+}
+
 header {
   display: block;
   height: 60px;
