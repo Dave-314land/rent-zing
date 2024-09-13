@@ -1,3 +1,7 @@
+.section-heading {
+    margin-bottom: 5px;
+}
+
 .listing-photo {
     height: 600px;
     width: 50%;
@@ -24,11 +28,10 @@
 .listing-features > .section-heading {
     color: var(--secondary-color);
     font-size: 24pt;
-    margin-bottom: 0px;
 }
 
 .listing-features {
-    margin-bottom: 0px;
+    margin-bottom: 15px;
 }
 
 .listing-features li {
